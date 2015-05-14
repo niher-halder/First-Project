@@ -1,0 +1,10 @@
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\bin\Debug\AdmissionTestResultCreatingApp.exe.config
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\bin\Debug\AdmissionTestResultCreatingApp.exe
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\bin\Debug\AdmissionTestResultCreatingApp.pdb
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.csprojResolveAssemblyReference.cache
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.AdmissionTestResultCreatorUI.resources
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.EntryForm.resources
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.Properties.Resources.resources
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.csproj.GenerateResource.Cache
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.exe
+D:\IT-Store\Project Self (BASIS)\12th May 2015\AdmissionTestResultCreatingApp\AdmissionTestResultCreatingApp\obj\Debug\AdmissionTestResultCreatingApp.pdb
